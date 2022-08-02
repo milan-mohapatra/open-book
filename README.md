@@ -19,8 +19,6 @@ To run this project, you will need to add the following environment variables to
 
 `PORT`
 
-`DB_URIend` 
-
 `DB_URI` 
 
 `COOKIE_EXPIRE` 
